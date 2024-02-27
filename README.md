@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 On the quest to level up my best self.<br>🌱 Immersing myself in front-end development<br>
+🚀 On the quest to level up my best self.<br>🌱 Immersing myself in front-end development.<br>
 
 
 ## 🌐 Socials:
